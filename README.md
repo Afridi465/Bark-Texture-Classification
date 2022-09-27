@@ -9,4 +9,5 @@ Loaded the pre-trained Resnet101V2 (without the top level feature layes) and add
 
 # Outcome
 Average accuracy on the training set: 98%
+
 Average accuracy on the validation set: 90%
